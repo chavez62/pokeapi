@@ -43,7 +43,6 @@ async function fetchData() {
         }
 
         // Display Pokemon ID
-        
         document.getElementById("pokeid").innerText = `PokeID: ${data.id}`;
         document.getElementById("pokeid").style.display = "block";
 
