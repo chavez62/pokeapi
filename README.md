@@ -15,4 +15,5 @@ This JavaScript code snippet provides an interactive feature for a web page that
 
 This setup assumes that the HTML contains elements with the IDs pokemonName, pokemonSprite, pokemonTypes, pokemonAbilities, and pokemonStats, and that these elements are styled appropriately to provide a visually appealing layout.
 
-![image](https://github.com/chavez62/pokeapi/assets/67764701/50a9c043-600f-4605-a2c3-c525e7880061)
+![image](https://github.com/chavez62/pokeapi/assets/67764701/a2066315-65d5-4efc-add3-52fef34f8e0c)
+
